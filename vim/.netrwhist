@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/mikeward/workspace/hotelhotel/.svn'
+let g:netrw_dirhist_2='/home/mikeward/workspace/hotelhotel/branches/hhb2b/conf'
+let g:netrw_dirhist_3='/home/mike/projects/hamquiz/HamQuiz/hamquiz/controllers'
