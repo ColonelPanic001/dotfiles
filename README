@@ -1,0 +1,5 @@
+For the top level files at least, each file is named the same as usual, but without the preceeding dot, just to make it a little easier to work with. For example, what would normally be ~/.zshrc is called "zshrc" here.
+
+I'd recommend just linking the correct locations to the repo versions, for easy updating and whatnot. For example:
+ln -s dotfiles/zshrc .zshrc
+
