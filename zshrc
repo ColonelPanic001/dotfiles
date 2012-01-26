@@ -15,7 +15,7 @@ compinit
 # we like the calculator built into the shell
 autoload -U zcalc
 
-export PATH="$PATH:/home/mward/bin"
+export PATH="$PATH:/home/mike/bin"
 
 setopt promptsubst
 autoload -U promptinit && promptinit
